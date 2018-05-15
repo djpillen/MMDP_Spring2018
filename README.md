@@ -1,6 +1,8 @@
 # Managing, Preserving, and Describing Web Archives Using Archive-It, DPN, and ArchivesSpace - MMDP Spring 2018
 
-This repository contains some example Python scripts and JSON responses for working with the Archive-It WASAPI data transfer and partner metadata APIs
+This repository contains some example Python scripts and JSON responses for working with the Archive-It WASAPI data transfer and partner metadata APIs to support a presentation at the Mid-Michigan Digital Practitioners Spring 2018 meeting.
+
+The full presentation can be viewed here: https://goo.gl/RJxi4r
 
 ## WASAPI Data Transfer API
 
