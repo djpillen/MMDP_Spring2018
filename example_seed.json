@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "Description": [{
+            "id": 1300526,
+            "value": "Website for the Office of the President. This includes Mary Sue Coleman from 2002-2014 and Mark S. Schlissel from 2014-onwards. These websites include speeches, goals, and information about staff and committees."
+        }],
+        "Corporate Creator": [{
+            "id": 1300531,
+            "value": "University of Michigan. President."
+        }],
+        "Publisher": [{
+            "id": 1300527,
+            "value": "The Regents of the University of Michigan"
+        }],
+        "Note": [{
+            "id": 1300528,
+            "value": "QA 2014-11-19 SR"
+        }],
+        "Coverage": [{
+            "id": 1300530,
+            "value": "Ann Arbor (Mich.)"
+        }],
+        "Subject": [
+            {
+                "id": 1300532,
+                "value": "University of Michigan -- Administration."
+            },
+            {
+                "id": 1300533,
+                "value": "Speeches, Addresses, etc."
+            }
+        ],
+        "Title": [{
+            "id": 1300529,
+            "value": "President (University of Michigan) Web Archives"
+        }]
+    },
+    "crawl_definition": 31104057759,
+    "deleted": false,
+    "seed_group": 3894,
+    "http_response_code": null,
+    "created_by": "eliserey",
+    "id": 896198,
+    "collection": 5866,
+    "canonical_url": "http://president.umich.edu/",
+    "publicly_visible": true,
+    "last_checked_http_response_code": null,
+    "login_password": null,
+    "last_updated_date": "2017-01-06T17:11:42Z",
+    "valid": null,
+    "last_updated_by": "eliserey",
+    "url": "http://president.umich.edu/",
+    "created_date": "2015-05-21T14:32:21Z",
+    "seed_type": "normal",
+    "login_username": null,
+    "active": true
+}

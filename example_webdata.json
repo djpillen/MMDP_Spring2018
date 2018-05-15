@@ -1,0 +1,25 @@
+{
+    "next": null,
+    "files": [{
+        "locations": [
+            "https://warcs.archive-it.org/webdatafile/ARCHIVEIT-5871-TEST-JOB570260-20180501130127804-00000.warc.gz",
+            "https://archive.org/download/ARCHIVEIT-5871-TEST_SAVED-JOB570260-00000/ARCHIVEIT-5871-TEST-JOB570260-20180501130127804-00000.warc.gz"
+        ],
+        "collection": 5871,
+        "account": 934,
+        "filename": "ARCHIVEIT-5871-TEST-JOB570260-20180501130127804-00000.warc.gz",
+        "crawl-time": "2018-05-01T13:01:28Z",
+        "checksums": {
+            "md5": "142c9920377fc1d14f3f50d476abef57",
+            "sha1": "bb86ee8f667c7d9fdb147467575e193f9df53af8"
+        },
+        "filetype": "warc",
+        "size": 1000001975,
+        "crawl": 570260,
+        "crawl-start": "2018-05-01T13:01:22Z"
+    }],
+    "previous": null,
+    "count": 1,
+    "request-url": "http://partner.archive-it.org/wasapi/v1/webdata?filename=ARCHIVEIT-5871-TEST-JOB570260-20180501130127804-00000.warc.gz",
+    "includes-extra": false
+}
